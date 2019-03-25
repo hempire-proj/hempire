@@ -1,6 +1,8 @@
 #include "ESP.h"
 
-
+/*
+* @Author: V.E.R. Inc
+*/
 int main()
 {
 	int procID = MemClass.getProcess(L"csgo.exe");
