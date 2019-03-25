@@ -30,5 +30,8 @@
     <Filter Include="Modules\ESP">
       <UniqueIdentifier>{5e850dbd-b9e8-4e9d-b049-9d636583e3f6}</UniqueIdentifier>
     </Filter>
+    <Filter Include="Modules\TriggerBot">
+      <UniqueIdentifier>{ed0863b0-5d82-49ed-bb2a-b9eb49421c7f}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
 </Project>
