@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="main.cpp" />
+    <ClCompile Include="MemMan.cpp">
+      <Filter>Engine</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="MemMan.h">
+      <Filter>Engine</Filter>
+    </ClInclude>
+    <ClInclude Include="Init.h">
+      <Filter>Engine</Filter>
+    </ClInclude>
+    <ClInclude Include="csgo.hpp">
+      <Filter>Engine</Filter>
+    </ClInclude>
+    <ClInclude Include="ESP.h">
+      <Filter>Modules\ESP</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Engine">
+      <UniqueIdentifier>{a1283889-0cd5-4da5-a11d-a8d7a4ea8787}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Modules">
+      <UniqueIdentifier>{52f2a0fb-421a-4b70-9bb1-7833a5d65dcd}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Modules\ESP">
+      <UniqueIdentifier>{5e850dbd-b9e8-4e9d-b049-9d636583e3f6}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
